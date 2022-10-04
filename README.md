@@ -9,14 +9,14 @@ Do you want to play? Download it from [here](https://github.com/saeidmetvaei/Wan
 <br />
 <br />
 
-The key features of the project is listed bellow. <br />
+###The key features of the project is listed bellow. <br />
 1- The unity's Occollusion Culling system has been employed to optimize the runtime rendering process. <br />
-2- The unity speach recognizer plugin (link) is utilizd to detect the voice command. <br />
+2- The unity [speach recognizer plugin](https://github.com/EricBatlle/UnityAndroidSpeechRecognizer) is utilizd to detect the voice command. <br />
 3- OnTriggerEnter() function is used to be in charge of detecting collisions. <br />
-4- For creating the first person character, mobile first person controller script explained here is employed. <br />
-5- To navigate in the environment, use left thumb to walk and right one to manage the view and direction. <br />
+4- For creating the first person character, mobile first person controller script explained [here](https://youtu.be/lYJtTYveYg0) is utilized. <br />
+5- To navigate in the environment, left thumb should be used to walk and right one is in charge of managing the view and direction. <br />
 6- The above-metioned script is modifed to add runing feature (by dragging the left thumb slightly more than usual), and jumping feature (by double click on screen). <br />
 7- Sounds effects are added to the scenes in order to make them more realistic. <br />
 <br />
 
-You can find the android version of this game through this link.
+You can find the android version of this game through [this link](https://github.com/saeidmetvaei/Wandering-Man-Windows).
