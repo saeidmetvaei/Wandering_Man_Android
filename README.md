@@ -5,7 +5,7 @@ Here is a simple android game developed in Unity 3D 2018.2. In this game a first
 <br />
 
 If you want to take a look at the game, check this video out.<br />
-Do you want to play? Download it from here.
+Do you want to play? Download it from [here](https://github.com/saeidmetvaei/Wandering_Man_Android/raw/main/Demo_App/Wandering%20Man.apk).
 <br />
 <br />
 
@@ -17,7 +17,6 @@ The key features of the project is listed bellow. <br />
 5- To navigate in the environment, use left thumb to walk and right one to manage the view and direction. <br />
 6- The above-metioned script is modifed to add runing feature (by dragging the left thumb slightly more than usual), and jumping feature (by double click on screen). <br />
 7- Sounds effects are added to the scenes in order to make them more realistic. <br />
-<br />
 <br />
 
 You can find the android version of this game through this link.
