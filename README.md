@@ -9,7 +9,7 @@ Do you want to play? Download it from [here](https://github.com/saeidmetvaei/Wan
 <br />
 <br />
 
-###The key features of the project is listed bellow. <br />
+######The key features of the project is listed bellow. <br />
 1- The unity's Occollusion Culling system has been employed to optimize the runtime rendering process. <br />
 2- The unity [speach recognizer plugin](https://github.com/EricBatlle/UnityAndroidSpeechRecognizer) is utilizd to detect the voice command. <br />
 3- OnTriggerEnter() function is used to be in charge of detecting collisions. <br />
