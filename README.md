@@ -19,4 +19,4 @@ Do you want to play? Download it from [here](https://github.com/saeidmetvaei/Wan
 7- Sounds effects are added to the scenes in order to make them more realistic. <br />
 <br />
 
-You can find the android version of this game through [this link](https://github.com/saeidmetvaei/Wandering-Man-Windows).
+You can find a windows version of this game through [this link](https://github.com/saeidmetvaei/Wandering-Man-Windows).
